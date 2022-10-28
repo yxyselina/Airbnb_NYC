@@ -1,7 +1,7 @@
 # Airbnb_NYC
 BA775 Project - TEAM B06 AIRBNB DATA ANALYSIS
 
-This is a class project by using Google Cloud Platform - BigQuery. We want to first appreaciate the instruction of our Professor Mohammad Soltanieh Ha who has given us a lot of support on learning query-structure data analysis and visualization. And also thanks to people who provide valuable feedbacks which help us improve a lot, especially our TA Ritwick Roy.  
+This is a class project using Google Cloud Platform - BigQuery. We want to appreaciate the instruction of our Professor Mohammad Soltanieh Ha who has given us a lot of support on learning query-structure data analysis and visualization. And also thanks to people who provide valuable feedbacks which help us improve a lot, especially our TA Ritwick Roy.  
 
 Contributor for this project including Prateek Naharia, Kwan Wing Tuet, Hengyuan Cao, Xueyi(Sherry) Cao and Xingyu(Selina) Yao. 
 
